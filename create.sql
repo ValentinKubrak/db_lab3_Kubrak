@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS team, player, statistic;
+DROP TABLE IF EXISTS teams, players, statistic;
 
 CREATE TABLE teams (
 	team_id INTEGER NOT NULL,
